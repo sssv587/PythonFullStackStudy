@@ -1,0 +1,33 @@
+pip3 install xx -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+
+ctrl+shift+f 自动格式化
+
+
+项目：
+代码 => 组织结构：项目  包括很多代码
+
+项目：
+  |--包 p1
+      |--test1.py
+      |--test2.py
+      |--test3.py
+  |--包 p2
+      |--test1.py
+      |--test2.py
+      |--test3.py
+
+函数：
+
+作用：
+python就出现了函数
+将重复的代码，封装到函数，只要使用直接找函数。
+函数可以增强代码模块化和提高代码的重复利用率。
+
+格式：
+def 函数名([参数,参数,....]):
+    函数体(重复的代码)
+
+注意：
+    1.必须使用关键字def
+    2.函数体注意缩进
+    3.函数名()绑定

@@ -1,0 +1,82 @@
+匿名函数：lambda 参数:参数...
+
+def func(参数,参数):
+    函数体
+
+    return 值
+
+lambda x,y:x+y
+
+max()
+min()
+sorted() ---> key=匿名函数
+
+
+map(func,list)
+filter(func,list) ---> lambda x : x%2==0
+reduce()  ---> from functools import reduce 函数必须是有两个参数
+
+递归函数：
+自己调用自己
+要有入口
+出口
+
+文件操作：
+open(path,mode)
+mode ----> r
+s.read()
+s.readline()
+s.readlines()
+
+with open('a1.txt') as fstream:
+    pass
+
+FileNotFoundError:no such file or directory:'a1.txt'
+
+mode ----> w,a
+
+with open('a1.txt','w') as wstream: ---> 如果指定的文件不存在，则会自动创建
+    wstream.write('hello')
+
+write()
+writelines()
+writeable()
+
+os模块:
+os.path
+
+文件：
+文件操作：
+    open()
+    path.filename:
+        path
+         绝对路径：
+         相对路径：相对当前文件路径
+    mode:
+    读：rb r
+    写：wb w
+
+    stream = open(file,mode)
+    stream.read()
+    stream.write()
+    stream.close()
+
+    with open(file,mode) as stream:
+        操作代码
+
+    os模块：
+
+    os.path：常用函数
+
+    os常用函数:
+        os.path:常用函数
+            dirname()：获取指定文件的目录
+            join()：拼接获取新的路径
+
+            split()：分割(文件目录，文件名)
+            splittext() 分割(文件目录\文件名，文件的扩展名)
+            getsize() 获取文件大小
+
+            isabs()  判断是否是绝对路径
+            isfile()  判断是否是文件
+            isdir() 判断是否是文件夹

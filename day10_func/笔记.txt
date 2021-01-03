@@ -1,0 +1,67 @@
+集合:
+    list tuple ----> set()
+    无序不重复的序列:集合
+    无序 ----> 跟下标相关
+
+    s = {1,2,3,4,5} ----> s[1]
+
+    for i in s:
+        print(i)
+
+    内置函数:
+    添加:add update
+    删除:remove discard pop clear
+
+    运算相关函数:
+    -  difference()
+    |  union()
+    &  intersection()
+    ^  symmetric_difference()
+
+    可变和不可变:
+    可变:地址不变里面的内容改变  list  dict  set
+    不可变:只要内容改变,必须改变地址  int str float tuple frozenset
+
+类型转换:
+    str ----> list set .... 相互的转换
+
+    list ----> set tuple dict 相互的转换
+
+函数:
+    增加代码的复用性,减少了代码冗余
+
+    def 函数名([参数,...]):
+        函数体(重复性的代码)
+
+    def add():
+        result = 1 + 3
+        print(result)
+
+    调用:
+    add() ----> 4
+
+    有参数:
+    def add(a,b):
+        result = a + b
+        print(result)
+
+    调用:
+    add(1,3)
+
+个人总结:
+    正常参数 ---> 对象
+    a=1,b=2 ---> 可传可不传,按位置或者按关键字传参
+    函数*号就是装包,全部放到元组里
+    调用*号就是拆包:
+        列表:拆的是元素
+        元组:拆的是元素
+        字典:拆的是key
+    *args ---> 装包(对象) 比如 1,2,3,4 ---> *args装包成(1,2,3,4)
+    **kwargs ---> 装包
+    函数**号就是装包:将k=v的形式全部放到字典里 {k:v,k:v}形式
+    调用**就是专门用作字典的----> 将字典全部拆成 k=v,k=v形式
+
+函数定义:
+def func(a,b=1,c=2,*args,**kwargs):
+            pass
+func(1,c=2,b=120) 这种形式不会报错

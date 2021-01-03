@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e9bc5fd-ecb6-4ee2-9a1b-e9b7e6e48d3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/day10_func/func10.py" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day17_module_import/module_import&amp;package.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JupyterTrust" id="8e525894-affd-426d-9137-52b4eff10b23" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="v4awc7yy" />
+  </component>
+  <component name="ProjectId" id="1gY9freGLoY7XwnVitn0en8Pv9W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day08" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day07" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day06" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day05" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day18_modules" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day11_highfunc" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day12_otherfunc" />
+      <recent name="C:\Users\10926\PycharmProjects\PythonFullStackStudy\day09" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Demo">
+    <configuration name="Demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_process_thread_coroutines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_process_thread_coroutines/Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corountines_gevent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_process_thread_coroutines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_process_thread_coroutines/corountines_gevent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corountines_greenlet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_process_thread_coroutines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_process_thread_coroutines/corountines_greenlet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coroutines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19_process_thread_coroutines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19_process_thread_coroutines/coroutines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonFullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="monkey" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonFullStackStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lib/site-packages/gevent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lib/site-packages/gevent/monkey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.monkey" />
+        <item itemvalue="Python.coroutines" />
+        <item itemvalue="Python.corountines_greenlet" />
+        <item itemvalue="Python.corountines_gevent" />
+        <item itemvalue="Python.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e9bc5fd-ecb6-4ee2-9a1b-e9b7e6e48d3d" name="Default Changelist" comment="" />
+      <created>1598280765682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598280765682</updated>
+      <workItem from="1598280775030" duration="161000" />
+      <workItem from="1598280945782" duration="30000" />
+      <workItem from="1598281685239" duration="23000" />
+      <workItem from="1598281716475" duration="786000" />
+      <workItem from="1598282611313" duration="408000" />
+      <workItem from="1598283028979" duration="3768000" />
+      <workItem from="1598369745329" duration="4768000" />
+      <workItem from="1598457585422" duration="4781000" />
+      <workItem from="1598539872421" duration="81000" />
+      <workItem from="1598543698806" duration="601000" />
+      <workItem from="1598804511821" duration="2313000" />
+      <workItem from="1598893064815" duration="1563000" />
+      <workItem from="1599671218730" duration="2436000" />
+      <workItem from="1599999422157" duration="11000" />
+      <workItem from="1600537400296" duration="6000" />
+      <workItem from="1600874004665" duration="4166000" />
+      <workItem from="1600957305525" duration="9316000" />
+      <workItem from="1601101393227" duration="10172000" />
+      <workItem from="1601120327937" duration="14117000" />
+      <workItem from="1601140706633" duration="70000" />
+      <workItem from="1601140788070" duration="16000" />
+      <workItem from="1601140816207" duration="1176000" />
+      <workItem from="1601198640955" duration="10725000" />
+      <workItem from="1601220972889" duration="1995000" />
+      <workItem from="1601304537980" duration="8098000" />
+      <workItem from="1601528760113" duration="9403000" />
+      <workItem from="1602168423721" duration="6588000" />
+      <workItem from="1602175097846" duration="65000" />
+      <workItem from="1602260694628" duration="1039000" />
+      <workItem from="1602598203742" duration="1189000" />
+      <workItem from="1602599421981" duration="102000" />
+      <workItem from="1602599533413" duration="7372000" />
+      <workItem from="1602685209586" duration="1061000" />
+      <workItem from="1602686286821" duration="6000" />
+      <workItem from="1602686300878" duration="6391000" />
+      <workItem from="1602774049024" duration="5981000" />
+      <workItem from="1602915343235" duration="21151000" />
+      <workItem from="1603004261607" duration="6047000" />
+      <workItem from="1603015393017" duration="12748000" />
+      <workItem from="1603292031995" duration="5158000" />
+      <workItem from="1603378749941" duration="3744000" />
+      <workItem from="1603382505261" duration="99000" />
+      <workItem from="1603382612048" duration="166000" />
+      <workItem from="1603382785022" duration="2540000" />
+      <workItem from="1603473377285" duration="3622000" />
+      <workItem from="1603520845874" duration="12562000" />
+      <workItem from="1603544146121" duration="3885000" />
+      <workItem from="1603551204173" duration="14000" />
+      <workItem from="1603551371368" duration="222000" />
+      <workItem from="1603553839272" duration="19000" />
+      <workItem from="1603608890346" duration="12000" />
+      <workItem from="1603627304081" duration="1000000" />
+      <workItem from="1603814892152" duration="82000" />
+      <workItem from="1603815019454" duration="26000" />
+      <workItem from="1603815233163" duration="4000" />
+      <workItem from="1603815250442" duration="73000" />
+      <workItem from="1603815344787" duration="5000" />
+      <workItem from="1603815372066" duration="207000" />
+      <workItem from="1603815588195" duration="30000" />
+      <workItem from="1603815625388" duration="7000" />
+      <workItem from="1604253375268" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="137" key="#Big_Data_Tools_Connections" timestamp="1603030308625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="137" key="#Big_Data_Tools_Connections/0.0.1536.824@0.0.1536.824" timestamp="1603030308625" />
+    <state x="395" y="90" key="#Inspections" timestamp="1603021968498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1603021968498" />
+    <state x="361" y="53" key="#Plugins" timestamp="1602774062707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1602774062707" />
+    <state x="522" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601222704918">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601222704918" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1602686942051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602686942051" />
+    <state x="524" y="111" key="#xdebugger.evaluate" timestamp="1602952767737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="111" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1602952767737" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603628320032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603628320032" />
+    <state width="1493" height="341" key="GridCell.Tab.0.bottom" timestamp="1603546199925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603546199925" />
+    <state width="1493" height="341" key="GridCell.Tab.0.center" timestamp="1603546199925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603546199925" />
+    <state width="1493" height="341" key="GridCell.Tab.0.left" timestamp="1603546199924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603546199924" />
+    <state width="1493" height="341" key="GridCell.Tab.0.right" timestamp="1603546199925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="341" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603546199925" />
+    <state width="1493" height="450" key="GridCell.Tab.1.bottom" timestamp="1603545049983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="450" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603545049983" />
+    <state width="1493" height="450" key="GridCell.Tab.1.center" timestamp="1603545049983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="450" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603545049983" />
+    <state width="1493" height="450" key="GridCell.Tab.1.left" timestamp="1603545049982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="450" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603545049982" />
+    <state width="1493" height="450" key="GridCell.Tab.1.right" timestamp="1603545049983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="450" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603545049983" />
+    <state x="182" y="46" width="996" height="734" key="SettingsEditor" timestamp="1603815616775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="182" y="46" width="996" height="734" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603815616775" />
+    <state x="311" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601529787046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1601529787046" />
+    <state x="467" y="10" width="602" height="804" key="find.popup" timestamp="1598286698938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="10" width="602" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598286698938" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604253412291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604253412291" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$decorator_func02.coverage" NAME="decorator_func02 Coverage Results" MODIFIED="1600964075398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_private.coverage" NAME="ob_private Coverage Results" MODIFIED="1602687999241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_thrid_party.coverage" NAME="module_thrid_party Coverage Results" MODIFIED="1603022486723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_extend_exe.coverage" NAME="ob_extend_exe Coverage Results" MODIFIED="1602779248996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$dict_in_list.coverage" NAME="dict_in_list Coverage Results" MODIFIED="1601312623400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_extend_2.coverage" NAME="ob_extend_2 Coverage Results" MODIFIED="1602921523587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$corountines_gevent.coverage" NAME="corountines_gevent Coverage Results" MODIFIED="1603545045542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$threading02.coverage" NAME="threading02 Coverage Results" MODIFIED="1603523824844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func02.coverage" NAME="func02 Coverage Results" MODIFIED="1598371955327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1603545775846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$inner_func02.coverage" NAME="inner_func02 Coverage Results" MODIFIED="1600877444035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_sys.coverage" NAME="module_sys Coverage Results" MODIFIED="1603005140086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17_module" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$inner_func.coverage" NAME="inner_func Coverage Results" MODIFIED="1600876347186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$decorator_func01.coverage" NAME="decorator_func01 Coverage Results" MODIFIED="1600961772085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$iterable01.coverage" NAME="iterable01 Coverage Results" MODIFIED="1601532475922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_extend_1.coverage" NAME="ob_extend_1 Coverage Results" MODIFIED="1602774269973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$singleton.coverage" NAME="singleton Coverage Results" MODIFIED="1602926060588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$generator04.coverage" NAME="generator04 Coverage Results" MODIFIED="1601530524939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$object01.coverage" NAME="object01 Coverage Results" MODIFIED="1601536561026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func04.coverage" NAME="func04 Coverage Results" MODIFIED="1598806234932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func07.coverage" NAME="func07 Coverage Results" MODIFIED="1598894593370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$threading2__1_.coverage" NAME="threading2 (1) Coverage Results" MODIFIED="1603524869603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$generator01.coverage" NAME="generator01 Coverage Results" MODIFIED="1601310240548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_class_method.coverage" NAME="ob_class_method Coverage Results" MODIFIED="1602599106539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$book_system.coverage" NAME="book_system Coverage Results" MODIFIED="1601207266804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$op_method_magic_str.coverage" NAME="op_method_magic_str Coverage Results" MODIFIED="1602606671036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$decorator_func03.coverage" NAME="decorator_func03 Coverage Results" MODIFIED="1600965561043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$exception01.coverage" NAME="exception01 Coverage Results" MODIFIED="1601221506308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$proces_summarize.coverage" NAME="proces_summarize Coverage Results" MODIFIED="1603381972197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func02__1_.coverage" NAME="func02 (1) Coverage Results" MODIFIED="1598804824505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$closure_func01.coverage" NAME="closure_func01 Coverage Results" MODIFIED="1600958051050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func10.coverage" NAME="func10 Coverage Results" MODIFIED="1599673395439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$producer_and_consumer.coverage" NAME="producer_and_consumer Coverage Results" MODIFIED="1603534173190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$op_method_magic.coverage" NAME="op_method_magic Coverage Results" MODIFIED="1602606036203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func3.coverage" NAME="func3 Coverage Results" MODIFIED="1598372365293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$file01.coverage" NAME="file01 Coverage Results" MODIFIED="1601132510285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func09.coverage" NAME="func09 Coverage Results" MODIFIED="1599672668781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$deadlock.coverage" NAME="deadlock Coverage Results" MODIFIED="1603528269514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_polymrophic.coverage" NAME="ob_polymrophic Coverage Results" MODIFIED="1602922737018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$recall_import1.coverage" NAME="recall_import1 Coverage Results" MODIFIED="1602954279770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17_module" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$decorator_func05.coverage" NAME="decorator_func05 Coverage Results" MODIFIED="1601101944111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$file03_copy.coverage" NAME="file03_copy Coverage Results" MODIFIED="1601136262222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$main.coverage" NAME="main Coverage Results" MODIFIED="1602692328871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$generator02.coverage" NAME="generator02 Coverage Results" MODIFIED="1601311977937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$object03.coverage" NAME="object03 Coverage Results" MODIFIED="1602170365031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$closure_func03.coverage" NAME="closure_func03 Coverage Results" MODIFIED="1600961074722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_random.coverage" NAME="module_random Coverage Results" MODIFIED="1603020503013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_extend.coverage" NAME="ob_extend Coverage Results" MODIFIED="1602689526615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_private_1.coverage" NAME="ob_private_1 Coverage Results" MODIFIED="1602688744611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$os02.coverage" NAME="os02 Coverage Results" MODIFIED="1601140573856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$coroutines.coverage" NAME="coroutines Coverage Results" MODIFIED="1603535754363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$exception02.coverage" NAME="exception02 Coverage Results" MODIFIED="1601222845614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$process_userdefine.coverage" NAME="process_userdefine Coverage Results" MODIFIED="1603383321629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$monkey.coverage" NAME="monkey Coverage Results" MODIFIED="1603544850163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lib/site-packages/gevent" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func05.coverage" NAME="func05 Coverage Results" MODIFIED="1598806763136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$anonymous_func02.coverage" NAME="anonymous_func02 Coverage Results" MODIFIED="1601119862760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12_otherfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_time.coverage" NAME="module_time Coverage Results" MODIFIED="1603007486907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$decorator_func06.coverage" NAME="decorator_func06 Coverage Results" MODIFIED="1601102986144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_import_package_init.coverage" NAME="module_import&amp;package_init Coverage Results" MODIFIED="1602951462925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17_module" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_import_package.coverage" NAME="module_import&amp;package Coverage Results" MODIFIED="1602948102903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17_module" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$anonymous_func01.coverage" NAME="anonymous_func01 Coverage Results" MODIFIED="1601115895818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12_otherfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$recall_import2.coverage" NAME="recall_import2 Coverage Results" MODIFIED="1602953951828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17_module" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$process_obstruct.coverage" NAME="process_obstruct Coverage Results" MODIFIED="1603474701913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$os03.coverage" NAME="os03 Coverage Results" MODIFIED="1601141040837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$corountines_greenlet.coverage" NAME="corountines_greenlet Coverage Results" MODIFIED="1603536575526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$threading_async.coverage" NAME="threading_async Coverage Results" MODIFIED="1603527212218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func01.coverage" NAME="func01 Coverage Results" MODIFIED="1598285816695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$generator03.coverage" NAME="generator03 Coverage Results" MODIFIED="1601529910901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func06.coverage" NAME="func06 Coverage Results" MODIFIED="1598893747536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$file02_write.coverage" NAME="file02_write Coverage Results" MODIFIED="1601133748604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$object04.coverage" NAME="object04 Coverage Results" MODIFIED="1602174148995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$threading1.coverage" NAME="threading1 Coverage Results" MODIFIED="1603522909853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1598462525273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$closure_func02.coverage" NAME="closure_func02 Coverage Results" MODIFIED="1600960128938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$process_communicate.coverage" NAME="process_communicate Coverage Results" MODIFIED="1603476971662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$process_no_obstruct.coverage" NAME="process_no_obstruct Coverage Results" MODIFIED="1603385027234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_regex_greed.coverage" NAME="module_regex_greed Coverage Results" MODIFIED="1603297089200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$list_derived01.coverage" NAME="list_derived01 Coverage Results" MODIFIED="1601312175420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14_listderived" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$threading03.coverage" NAME="threading03 Coverage Results" MODIFIED="1603524876636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19_process_thread_coroutines" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_extend_muti_search.coverage" NAME="ob_extend_muti_search Coverage Results" MODIFIED="1602917241099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_extend_muti.coverage" NAME="ob_extend_muti Coverage Results" MODIFIED="1602916216378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$test.coverage" NAME="test Coverage Results" MODIFIED="1602951828097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17_module/user" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_regex_group.coverage" NAME="module_regex_group Coverage Results" MODIFIED="1603293962011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ps05_copy.coverage" NAME="ps05_copy Coverage Results" MODIFIED="1601201192131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func11.coverage" NAME="func11 Coverage Results" MODIFIED="1600874708536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$ob_pra.coverage" NAME="ob_pra Coverage Results" MODIFIED="1602174924084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$recursion_func01.coverage" NAME="recursion_func01 Coverage Results" MODIFIED="1601120711209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12_otherfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$os04_copy.coverage" NAME="os04_copy Coverage Results" MODIFIED="1601199378719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_haslib.coverage" NAME="module_haslib Coverage Results" MODIFIED="1603021775541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func01__1_.coverage" NAME="func01 (1) Coverage Results" MODIFIED="1598459767739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$object02.coverage" NAME="object02 Coverage Results" MODIFIED="1601537677787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$decorator_func04.coverage" NAME="decorator_func04 Coverage Results" MODIFIED="1600966043971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11_highfunc" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$func03.coverage" NAME="func03 Coverage Results" MODIFIED="1598805314419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10_func" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$os01.coverage" NAME="os01 Coverage Results" MODIFIED="1601137943247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13_fileoperator" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_datetime.coverage" NAME="module_datetime Coverage Results" MODIFIED="1603015273217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_regex.coverage" NAME="module_regex Coverage Results" MODIFIED="1603037063090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$op_method_static.coverage" NAME="op_method_static Coverage Results" MODIFIED="1602600307026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15_oop" />
+    <SUITE FILE_PATH="coverage/PythonFullStackStudy$module_regex_groupx.coverage" NAME="module_regex_groupx Coverage Results" MODIFIED="1603295208441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18_modules" />
+  </component>
+</project>
